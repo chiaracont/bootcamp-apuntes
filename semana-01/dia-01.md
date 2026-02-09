@@ -1,28 +1,49 @@
-# ?? Día 1 - [Fecha]
+# ğŸ“… DÃ­a 1 - [06/01/2026]
 
-## ?? Lo que hemos visto hoy
+## ğŸ¯ Lo que hemos visto hoy
 
-### Mañana
-- Dinámica: Gartic Phone (sobre distorsión de información)
-- Conceptos: ¿Qué es análisis de datos?
+### MaÃ±ana
+- DinÃ¡mica: Gartic Phone (sobre distorsiÃ³n de informaciÃ³n)
+- Conceptos: Â¿QuÃ© es anÃ¡lisis de datos?
 - Ejercicio: Palabras en griego (buscar patrones sin contexto)
 
 ### Tarde
-- Git y GitHub: instalación y configuración
+- Git y GitHub: instalaciÃ³n y configuraciÃ³n
 - Primeros comandos: clone, status, add, commit, push
 
-## ?? Lo que he aprendido
+## ğŸ’¡ Lo que he aprendido
 
-[Escribe aquí lo más importante que te llevas del día]
+Crear y manejar un repositorio git.
 
-## ? Dudas que tengo
+## â“ Dudas que tengo
 
-[Anota aquí lo que necesitas repasar o preguntar]
+Necesito repasar comandos y estructura de github
 
-## ?? Recursos útiles
+## ğŸ”— Recursos Ãºtiles
 
-- [Enlace a algún recurso que te haya gustado]
+https://github.com/Anais-RV/da-sat-00-launchpad-fundamentos/blob/main/09-taller/enunciado.md
 
 ---
 
 **Siguiente paso:** Empezar SAT-01 Atlas
+
+## Ejercicio 3 
+## ğŸ” Comandos investigados
+
+### git log --oneline
+Â¿QuÃ© muestra? devuelve el proceso que hemos hecho previamente en una lÃ­nea. git log devuelve mÃ¡s detalle.
+
+### git remote -v
+Â¿QuÃ© informaciÃ³n da? Guarda la URL y la simplifica para que no tenga que escribirla entera
+
+### git branch
+Â¿En quÃ© rama estÃ¡s? Main
+
+### git pull
+Actualiza los cambios del remoto al local
+
+### .gitignore
+Para que git no haga seguimiento (tracking) de los archivos y ficheros que estÃ©n el el .gitignore y utilizarlos en el local sin que aparezcan en el repo.
+
+### git add . vs git add archivo
+git add . es para seleccionar todos los cambios para luego formar un commit y git add nombre-archivo selecciona los cambios de ese archivo concreto solo.
